@@ -1,0 +1,1 @@
+Computer vision systems combine cameras and image processing. Embedded engineering brings models closer to hardware.

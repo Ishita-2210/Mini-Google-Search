@@ -1,0 +1,1 @@
+A search engine builds an inverted index. Search ranking can use cosine similarity between document word counts.
